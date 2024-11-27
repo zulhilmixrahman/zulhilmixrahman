@@ -5,8 +5,6 @@
 - Malaysian Citizen
 - Federal civil servants
 - Member of Cyberjaya Traditional Archery Club aka CYBERTRA
-- Current Personal Project: 
-    - Web Application for scoring and game management for Traditional Archery Games in Malaysia
 
 ### Connect with me:
 
